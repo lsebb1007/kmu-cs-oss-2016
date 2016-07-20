@@ -1,0 +1,3 @@
+REVIEWBOARD_URL = 'https://reviews.cs.kookmin.ac.kr/'
+REPOSITORY = 'Open Source Software'
+DISABLE_SSL_VERIFICATION = True
